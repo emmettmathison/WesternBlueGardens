@@ -1,0 +1,24 @@
+{
+  "name": "westernbluegardens",
+  "version": "1.0.0",
+  "description": "Western Blue Gardens",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmettmathison/WesternBlueGardens.git"
+  },
+  "author": "Emmett Mathison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmettmathison/WesternBlueGardens/issues"
+  },
+  "homepage": "https://github.com/emmettmathison/WesternBlueGardens#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
